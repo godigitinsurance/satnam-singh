@@ -5,7 +5,7 @@ $("#endDate").text("17-May-2021");
 
 
 $("#type").text("Four Wheeler");
-$("#registrationNumber").text("PB009Y1062");
+$("#registrationNumber").text("PB09Y1062");
 $("#make").text("MARUTI");
 $("#model").text("ALTO");
 $("#vehicalSubType").text("800 LXI");
